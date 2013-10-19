@@ -3,7 +3,7 @@ has_peanut_butter=True
 has_jelly=True
 
 if slices_of_bread>=4:#Note: I have enough bread to make multiple sandwiches.#
-    print "You can make {0} sandwiches.".format(slices_of_bread/2)
+    print "You can make {0} sandwiches.".format(slices_of_bread/2) #.format takes what is in the () and puts it in the {} 
 
     if has_peanut_butter==True and has_jelly==False:
         print "You can make a peanut butter sandwich."
