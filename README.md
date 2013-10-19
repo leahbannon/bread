@@ -1,4 +1,5 @@
-bread
+python practice files
 =====
 
-How to make PB&amp;J sandwich(es). 
+pbj.py is How to make PB&amp;J sandwich(es)
+bingo.py is creating a bingo card
